@@ -1,4 +1,5 @@
 **DCS EE Final Project — MSP430 Object & Light Scanner**
+
 A compact “radar-style” scanner built on MSP430G2553 that sweeps 0-180° with a micro-servo, measures distance with an ultrasonic sensor, and detects bright light sources with two LDRs. A desktop Python/Tkinter app provides calibration, live plots, and post-scan detection of both objects and lights. Communication is over UART.
 
 **Hardware**
